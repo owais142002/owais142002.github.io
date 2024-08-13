@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-14
+date: 2023-01-01
 inline: true
 related_posts: false
 ---
 
-Scored 145/160 in Duolingo English Test
+Joined Rehani Soko as Machine Learning Engineer and Data Miner

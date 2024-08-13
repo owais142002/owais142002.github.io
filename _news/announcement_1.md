@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from NED University of Engineering and Technology with Distinction - CGPA: 3.95 (Top 4%)
+Graduated from NED University of Engineering and Technology at Major in Computer Systems Engineering - CGPA: 3.63
