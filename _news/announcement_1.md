@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from NED University of Engineering and Technology at Major in Computer Systems Engineering - CGPA: 3.63
+Graduated with a Bachelor's degree in Computer Systems Engineering from NED University of Engineering and Technology (NEDUET), achieving a CGPA of 3.63.
