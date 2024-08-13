@@ -20,7 +20,7 @@ Download PDF</a>
 </center>
 
 <center>
-<iframe src="https://drive.google.com/file/d/1LfngTNyLdChYyi2I854o3l3d26kh5_MF/view" width="100%" height="600" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1LfngTNyLdChYyi2I854o3l3d26kh5_MF/preview" width="100%" height="600" allow="autoplay"></iframe>
 </center>
 </div>
 
