@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Hasnain Ali
+first_name: Owais
 middle_name: 
-last_name: Arain
-email: hasnain.ai3142@gmail.com
+last_name: Ahmed
+email: owaisahmed142002@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Welcome to the academic portfolio of Hasnain Ali Arain. Here, you will find comprehensive information about his projects, publications, news updates, CV, and more. This site serves as a detailed showcase of his academic journey and professional accomplishments.
+  Welcome to the academic portfolio of Owais Ahmed. Here, you can find comprehensive information about his projects, publications, news updates, resume, and more. This site serves as a detailed showcase of his academic journey and professional accomplishments.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -76,7 +76,7 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: hasnain3142
+github_username: owais142002
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: # your instagram id
@@ -84,9 +84,9 @@ kaggle_id:
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: hasnain3142
+linkedin_username: owais142002
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
-medium_username: hasnain3142
+medium_username: owaisahmed142002
 orcid_id: # your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
@@ -97,15 +97,15 @@ scholar_userid: # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
-stackoverflow_id: 12186940 # your stackoverflow id
+stackoverflow_id: 17405119 # your stackoverflow id
 telegram_username: # your Telegram user name
 unsplash_id: # your unsplash id
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
-whatsapp_number: 923100086649 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
+whatsapp_number: 923122029205 # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-x_username: hasnain3142 # your X handle
+x_username:  # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
@@ -126,7 +126,7 @@ related_blog_posts:
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@hasnain3142/feed
+    rss_url: https://medium.com/@owaisahmed142002/feed
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
