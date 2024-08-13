@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://hasnain3142.github.io/sitemap.xml
