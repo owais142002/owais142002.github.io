@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://owaisahmed142002.github.io//sitemap.xml
+Sitemap: https://owais142002.github.io//sitemap.xml
