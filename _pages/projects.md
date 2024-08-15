@@ -27,7 +27,7 @@ nav_order: 3
     <div class="project-details0">
         <div class="heading">
         <h3>Road Object Detection and Tracking with DeepSORT and YOLOv7</h3>
-        <span class="timeline">In progress</span>
+        <span class="timeline">Jul 2024 - Aug 2024</span>
         </div>
         <p> The project is designed to enhance road safety and traffic management by accurately detecting and tracking objects on roads and highways. Uses YOLOv7 and DeepSORT for object detection on BDD100K dataset.</p>
         <a href="https://github.com/owais142002/Road-Object-Tracking"><button>See Project</button></a>
@@ -41,7 +41,7 @@ nav_order: 3
     <div class="project-details0">
         <div class="heading">
         <h3>Facial Emotion Detection</h3>
-        <span class="timeline">July 2024 - August 2024</span>
+        <span class="timeline">Mar 2024 - May 2024</span>
         </div>
         <p>Facial Emotion Detection using YOLOv8 is a Flask web application designed to detect facial emotions in real time. Leveraging the power of the YOLOv8 model, this project offers a robust solution for identifying a range of emotions directly from images or webcam feeds.</p>
         <a href="https://github.com/owais142002/facial-emotion-detection"><button>See Project</button></a>
@@ -55,7 +55,7 @@ nav_order: 3
     <div class="project-details0">
         <div class="heading">
         <h3>Data Wizard: A Data Science Assistant</h3>
-        <span class="timeline">July 2024 - July 2024</span>
+        <span class="timeline">Jun 2024 - July 2024</span>
         </div>
         <p>DataWizard, your go-to assistant for all things data science! This project leverages the power of Llama 3 through Together AI and Groq APIs to assist users in their data science tasks with ease. DataWizard employs the pandasai agent for data manipulation and analysis and offers an intuitive UI developed in Streamlit.</p>
         <p> Part of <a href="https://lablab.ai/event/llama-3-ai-hackathon">LLAMA 3 AI Hackathon</a></p>
@@ -84,7 +84,7 @@ nav_order: 3
     <div class="project-details0">
         <div class="heading">
         <h3>Human Sense Ads</h3>
-        <span class="timeline">Jan 2024 - Feb 2024</span>
+        <span class="timeline">Dec 2023 - Jan 2024</span>
         </div>
         <p>Human Sense Ads is a project designed to detect humans, extract their features, and generate personalized messages using a language model (LLM) to grab their attention towards advertisements displayed on a screen.</p>
         <a href="https://github.com/owais142002/Human-Sense-Ads"><button>See Project</button></a>
@@ -98,7 +98,7 @@ nav_order: 3
     <div class="project-details0">
         <div class="heading">
         <h3>AI Assistant Builder</h3>
-        <span class="timeline">March 2024 - April 2024</span>
+        <span class="timeline">Oct 2023 - Nov 2023</span>
         </div>
         <p>AI-Assistant-Builder is a flexible platform that enables users to create their own AI assistants tailored to any profession or field. By customizing some data and values, users can effortlessly build specialized AI assistants such as an AI Doctor or an AI Lawyer.</p>
         <a href="https://github.com/owais142002/AI-Assistant-Builder"><button>See Project</button></a>
