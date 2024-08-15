@@ -30,7 +30,7 @@ nav_order: 3
         <span class="timeline">In progress</span>
         </div>
         <p> The project is designed to enhance road safety and traffic management by accurately detecting and tracking objects on roads and highways. Uses YOLOv7 and DeepSORT for object detection on BDD100K dataset.</p>
-        <a href="https://github.com/owais142002/Road-Object-Detection"><button>See Project</button></a>
+        <a href="https://github.com/owais142002/Road-Object-Tracking"><button>See Project</button></a>
     </div>
 </div>
 
