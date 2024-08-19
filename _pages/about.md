@@ -19,20 +19,25 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>Hi, I’m <b>Owais Ahmed</b> 👋</p>
+<h1>Owais Ahmed 👋</h1>
 
-<p>I hold a <b>Bachelor's degree in Computer and Information Systems Engineering</b> from <b>NED University of Engineering and Technology (NEDUET)</b> in Karachi, Pakistan.</p>
+<h2>About Me</h2>
+<p>I hold a Bachelor's degree in Computer and Information Systems Engineering from <b>NED University of Engineering and Technology (NEDUET)</b> in Karachi, Pakistan. I have a keen interest in <b>Computer Vision</b> and <b>Robotics</b>.</p>
 
-<p>Currently, I am employed as a <b>Software Engineer</b> with a focus on <b><i>AI/ML technologies</i></b>, specializing in <b><i>Computer Vision</i></b>, <b><i>Natural Language Processing (NLP)</i></b>, and <b><i>Large Language Models (LLMs)</i></b>. My work involves developing backend solutions, implementing object detection systems, and enhancing AI-driven applications.</p>
-
+<h2>Research Interests</h2>
 <p>My research interests encompass a wide range of topics within AI and Machine Learning, including:</p>
 <ul>
-    <li>Computer Vision</li>
-    <li>Natural Language Processing</li>
-    <li>Generative AI and Diffusion Models</li>
-    <li>AI-driven Automation and Robotics</li>
+    <li><b>Computer Vision</b></li>
+    <li><b>Robotics</b></li>
+    <li><b>Demand Forecasting</b></li>
+    <li><b>Generative AI and Diffusion Models</b></li>
 </ul>
 
-<p>In addition to my professional work, I am engaged in independent research focused on large language models and their applications. I am also committed to community service and actively volunteer as a trainer at <b>iCodeGuru</b>, where I teach coding and problem-solving skills to underprivileged students in Pakistan.</p>
+<h2>Future Goals</h2>
+<p>I am seeking opportunities to further my academic and professional career through advanced studies and research. My aim is to make significant contributions to the fields of <b>Artificial Intelligence and Machine Learning</b>.</p>
 
-<p>I am now seeking opportunities to advance my academic and professional career through further studies and research. My goal is to contribute to the fields of <b><i>computer vision</i></b>, <b><i>natural language processing</i></b>, and <b><i>multimodal learning</i></b>.</p>
+<h2>Additional Information</h2>
+<p>Currently, I am working as a <b>Software Engineer</b> with a focus on <b>AI/ML technologies</b>, where I specialize in <b>Computer Vision</b>, <b>Natural Language Processing (NLP)</b>, and <b>Large Language Models (LLMs)</b>. My work involves developing backend solutions, implementing object detection systems, and enhancing AI-driven applications.</p>
+
+<h2>Community Engagement</h2>
+<p>Beyond my professional responsibilities, I am deeply committed to community service. I actively volunteer as a trainer at <b>iCodeGuru</b>, where I teach coding and problem-solving skills to underprivileged students in Pakistan. Additionally, I am involved in independent research focused on large language models and their applications.</p>
