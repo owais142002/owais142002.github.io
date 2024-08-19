@@ -17,8 +17,7 @@ nav_order: 3
         <p><strong>Trainer & Moderator</strong></p>
         <p>At ICodeGuru, we teach, train, mentor and guide students from underprivileged areas of Pakistan to enhance their professional skills. I teach coding to these students and help them solve Leetcode problems.</p>
         <p>Checkout some of my live classes</p>
-        <a href="https://www.facebook.com/iCodeguru/videos/303620089450748"><button>Leetcode Class</button></a>
-        <a href="https://www.facebook.com/iCodeguru/videos/1844957622582963"><button>Langchain Workshop</button></a>
+        <a href="https://www.facebook.com/iCodeguru/videos/827891879496385"><button>Langchain Workshop</button></a>
     </div>
 </div>
 

@@ -19,7 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<h3><strong>About Me</strong></h3>
 <p>I hold a Bachelor's degree in Computer and Information Systems Engineering from <b>NED University of Engineering and Technology (NEDUET)</b> in Karachi, Pakistan. I have a keen interest in <b>Computer Vision</b> and <b>Robotics</b>.</p>
 
 <h3><strong>Research Interests</strong></h3>

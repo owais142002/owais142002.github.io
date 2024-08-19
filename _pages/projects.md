@@ -36,7 +36,7 @@ nav_order: 3
 
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/Facial-Emotion-Detection.jpeg" style="width: 300px; height: 300px;" %}
+        {% include figure.liquid loading="eager" path="assets/img/Facial-Emotion-Detection.jpg" style="width: 300px; height: 300px;" %}
     </div>
     <div class="project-details0">
         <div class="heading">
@@ -55,7 +55,7 @@ nav_order: 3
     <div class="project-details0">
         <div class="heading">
         <h3>Workshop Forecasting using Classical Models</h3>
-        <span class="timeline"> Oct 2023 - Jan 2024</span>
+        <span class="timeline"> Jun 2024 - Aug 2024</span>
         </div>
         <p>Flask application designed to perform forecasting using classical models. The application allows users to select from a variety of forecasting models to predict future values based on a dataset collected from a real workshop.</p>
         <a href="https://github.com/owais142002/Workshop-Forecasting-using-classical-models"><button>See Project</button></a>
