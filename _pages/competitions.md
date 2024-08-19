@@ -19,7 +19,7 @@ nav_order: 5
         <p><b>Description:</b> Developed a medical bot, leveraging TiDB's capabilities to create a robust and scalable healthcare assistant. Utilized TiDB's features to store and manage medical data, and created a user-friendly interface for patients and healthcare professionals.</p>
         <a href="https://github.com/owais142002/MedAI-Assistant"><button>View Project</button></a>
         <a href="https://devpost.com/submit-to/21490-tidb-future-app-hackathon-2024/manage/submissions/538371/project-overview"><button>View Submission</button></a>
-        <a href=""><button>View Demo</button></a>
+        <a href="https://github.com/user-attachments/assets/f034c6fe-4393-4837-a15e-2d569bbd21d3"><button>View Demo</button></a>
     </div>
 </div>
 
