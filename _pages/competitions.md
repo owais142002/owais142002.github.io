@@ -7,7 +7,7 @@ nav_order: 5
 ---
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/tidbhackathon-2024.png"%}
+        {% include figure.liquid loading="eager" path="assets/img/tidb.jpeg"%}
     </div>
     <div class="project-details0">
         <div class="heading">
@@ -27,7 +27,7 @@ nav_order: 5
 
 <div class="project0">
     <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/Llama3Hackathon.png"%}
+        {% include figure.liquid loading="eager" path="assets/img/llama3.jpg"%}
     </div>
     <div class="project-details0">
         <div class="heading">
