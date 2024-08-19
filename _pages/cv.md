@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /cv/
-title: Academic Resume
+title: CV
 nav: true
-nav_order: 5
+nav_order: 6
 cv_pdf: assets/pdf/CV-Owais_Ahmed.pdf
 ---
 <div>
