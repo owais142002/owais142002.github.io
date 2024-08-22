@@ -25,11 +25,26 @@ nav_order: 3
 
 <div class="project0">
     <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/asl.png" style="width: 300px; height: 300px;"  %}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>American Sign-Language Detection With YOLO</h3>
+        <span class="timeline">Jun 2024 - Aug 2024</span>
+        </div>
+        <p> This project demonstrates the use of YOLOv8 for detecting American Sign Language (ASL) gestures.</p>
+        <a href="https://github.com/owais142002/American-Sign-Language-Detection-With-YOLO"><button>View Project</button></a>
+        <a href="https://github.com/user-attachments/assets/6564970b-b950-4be9-8606-b2a5b63e0d39"><button>View Demo</button></a>
+    </div>
+</div>
+
+<div class="project0">
+    <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/road-object-detection.jpg" style="width: 300px; height: 300px;"  %}
     </div>
     <div class="project-details0">
         <div class="heading">
-        <h3>Road Object Detection and Tracking with DeepSORT and YOLOv7</h3>
+        <h3>Road Object Detection and Tracking with DeepSORT and YOLOv8</h3>
         <span class="timeline">Jul 2024 - Aug 2024</span>
         </div>
         <p> The project is designed to enhance road safety and traffic management by accurately detecting and tracking objects on roads and highways. Uses YOLOv7 and DeepSORT for object detection on BDD100K dataset.</p>
