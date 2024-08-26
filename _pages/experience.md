@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /experience/
-title: experience
+title: Experience
 nav: true
 nav_order: 2
 ---
@@ -23,7 +23,7 @@ nav_order: 2
             <li>Designed and implemented Django backend solutions for seamless front-end communication. </li>
             <li>Integrated OpenAI and Langchain to enhance system efficiency and intelligence. </li>
             <li>Developed and maintained multi-action agents with Langchain for responsive chatbot functionalities. </li>
-        <ul>
+        </ul>
     </div>
 </div>
 
@@ -44,7 +44,7 @@ nav_order: 2
             <li>Engineered a data collection pipeline from global real estate websites. </li>
             <li>Implemented pipeline to predict house prices on various parameters using time series model. </li>
             <li>Developed a real estate chatbot using OpenAI, Flask, and Langchain. Created and maintained backend APIs. </li>
-        <ul>
+        </ul>
     </div>
 </div>
 
