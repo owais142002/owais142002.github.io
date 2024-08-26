@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: Teaching
 nav: true
-nav_order: 3
+nav_order: 5
 ---
 <div class="project0">
     <div class="image-container0">
@@ -21,3 +21,18 @@ nav_order: 3
     </div>
 </div>
 
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/pak_angels.jpg" title="pakangels" %}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3><a href="https://aspirepk.org/pak-angels/">PAK ANGELS</a></h3>
+        <span class="timeline">June 2024 - Present</span>
+        </div>
+        <p><strong>Trainer</strong></p>
+        <p>At Pak Angels,I moderated an online Generative AI course focused on LangChain, Retrieval-Augmented Generation (RAG), and LangGraph, where I led interactive discussions, guided hands-on applications, and trained underprivileged students from the community.</p>
+        <p>Checkout some of my live classes</p>
+        <a href="https://www.youtube.com/watch?v=rq-DvpERDU4"><button>RAG Workshop</button></a>
+    </div>
+</div>

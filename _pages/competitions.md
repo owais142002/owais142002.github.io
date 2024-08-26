@@ -5,6 +5,27 @@ title: Competitions
 nav: true
 nav_order: 5
 ---
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/next_comp.jpg"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>Next2 Edge Runners Hackathon</h3>
+        <span class="timeline">23 Aug 2024 - 25 Aug 2024</span>
+        </div>
+        <p><b>Organizer: </b><a href="https://lablab.ai/event/next2-edge-runners">Lablab.ai</a></p>
+        <p><b>Project:</b> Caduceus</p>
+        <p><b>Description:</b> Developed Caduceus, the ultimate assistant designed to enhance your health-related decision-making. By harnessing the capabilities of Generative AI, this innovative application integrates your personal health records and real-time biometrics to provide tailored advice. Caduceus utilizes a combination of advanced Generative AI, Large Language Models (LLMs (Langchain, OpenAI GPT-4), SQL database, Django backend, React frontend, and a wealth of public health data to ensure that every choice you make is informed and personalized, leading to better health outcomes for the individual and the population as a whole.</p>
+        <a href="https://github.com/AdvancedHueristics/MedAI-Assistant"><button>View Project</button></a>
+        <a href="https://lablab.ai/event/next2-edge-runners/caduceus/caduceus-your-tool-for-your-health"><button>View Submission</button></a>
+        <a href="#">
+            <button style="pointer-events: none; opacity: 0.5; cursor: not-allowed;">View Demo</button>
+        </a>
+    </div>
+</div>
+
 <div class="project0">
     <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/tidb.jpeg"%}
@@ -40,3 +61,4 @@ nav_order: 5
         <a href="https://datawizard-1.streamlit.app/"><button>View Demo</button></a>
     </div>
 </div>
+
