@@ -8,6 +8,39 @@ nav_order: 6
 
 <div class="project0">
     <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/o1.jpeg"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>Reasoning with o1 Hackathon</h3>
+        <span class="timeline">4 Oct 2024 - 11 Oct 2024</span>
+        </div>
+        <p><b>Organizer: </b><a href="https://lablab.ai/event/strawberry-reasoning-with-o1">Lablab.ai</a></p>
+        <p><b>Project:</b> Paul Graham Life Coach AI App</p>
+        <p><b>Description:</b> Paul Graham Life Coach AI App! 🎉 This app brings the wisdom of Paul Graham—legendary entrepreneur, venture capitalist, and essayist—right to your fingertips. By leveraging AI-powered vector search combined with insights from his iconic essays, the app delivers witty, edgy, and profound advice, just as if Paul Graham himself were guiding you through your toughest challenges. Whether you’re seeking startup tips or life advice, AI Paul Graham is here to offer sharp, candid responses tailored to your queries</p>
+        <a href="https://github.com/hasnain3142/Chat-with-Paul-Graham"><button>View Project</button></a>
+        <a href="https://lablab.ai/event/strawberry-reasoning-with-o1/guardians-of-the-galaxy"><button>View Submission</button></a>
+        <a href="https://ai-paul-graham.streamlit.app/"><button>View Demo</button></a>
+    </div>
+</div>
+
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/hacker_cup.jpg"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>Meta Hacker Cup - 2024</h3>
+        <span class="timeline">Sept 2024 - Dec 2024</span>
+        </div>
+        <p><b>Organizer: </b><a href="https://www.facebook.com/codingcompetitions/hacker-cup">Meta</a></p>
+        <p><b>Description:</b> Hacker Cup is Meta's annual open programming competition. Open to participants around the world, we invite you to apply problem-solving and algorithmic coding skills to advance through each year’s online rounds, win prizes, and have a chance to make it to the global finals and win the grand prize.</p>
+        <a href="https://www.facebook.com/codingcompetitions/hacker-cup/2024/certificate/1531595364110767"><button>View Certificate</button></a>
+    </div>
+</div>
+
+<div class="project0">
+    <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/next_comp.jpg"%}
     </div>
     <div class="project-details0">
