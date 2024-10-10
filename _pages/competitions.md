@@ -19,7 +19,7 @@ nav_order: 6
         <p><b>Project:</b> Paul Graham Life Coach AI App</p>
         <p><b>Description:</b> Paul Graham Life Coach AI App! 🎉 This app brings the wisdom of Paul Graham—legendary entrepreneur, venture capitalist, and essayist—right to your fingertips. By leveraging AI-powered vector search combined with insights from his iconic essays, the app delivers witty, edgy, and profound advice, just as if Paul Graham himself were guiding you through your toughest challenges. Whether you’re seeking startup tips or life advice, AI Paul Graham is here to offer sharp, candid responses tailored to your queries</p>
         <a href="https://github.com/hasnain3142/Chat-with-Paul-Graham"><button>View Project</button></a>
-        <a href="https://lablab.ai/event/strawberry-reasoning-with-o1/guardians-of-the-galaxy"><button>View Submission</button></a>
+        <a href="https://lablab.ai/event/strawberry-reasoning-with-o1/guardians-of-the-galaxy/paul-graham-founder-mode-ai-app"><button>View Submission</button></a>
         <a href="https://ai-paul-graham.streamlit.app/"><button>View Demo</button></a>
     </div>
 </div>
