@@ -39,3 +39,5 @@ social: false # includes social icons at the bottom of the page
 
 <h3><strong>Future Goals</strong></h3>
 <p>I am excited to advance my academic journey through a graduate program in the United States, focusing on <b><strong>Artificial Intelligence and Machine Learning</strong></b>. My aim is to contribute to transformative research and influence the future of technology.</p>
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=Zb_hH21BM6grVAEPzfYJqGczBQLWbIoZR6zoRV0TidU"></script>
