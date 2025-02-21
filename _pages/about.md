@@ -19,13 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>I hold a Bachelor's degree in Computer and Information Systems Engineering from <b>NED University of Engineering and Technology (NEDUET)</b> in Karachi, Pakistan. I have a keen interest in <b><strong>Computer Vision</strong></b> and <b><strong>Robotics</strong></b>.  I am also learning ROS to an expert level and working on an exciting project that integrates <strong>Robotics, Computer Vision, NLP, and LLMs.</strong></p>
+<p>I hold a Bachelor's degree in Computer and Information Systems Engineering from <b>NED University of Engineering and Technology (NEDUET)</b> in Karachi, Pakistan. I have a keen interest in <b><strong>Computer Vision</strong></b> and <b><strong>Artificial Intelligence</strong></b></p>
 
 <h3><strong>Research Interests</strong></h3>
 <p>My research interests encompass a wide range of topics within AI and Machine Learning, including:</p>
 <ul>
     <li><b><strong>Computer Vision</strong></b></li>
-    <li><b><strong>Robotics</strong></b></li>
+    <li><b><strong>Artificial Intelligence</strong></b></li>
     <li><b><strong>Demand Forecasting</strong></b></li>
     <li><b><strong>Natural Language Processing</strong></b></li>
     <li><b><strong>Generative AI</strong></b></li>
