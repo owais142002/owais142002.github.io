@@ -74,7 +74,7 @@ nav_order: 4
         <h3>SmartScan Billing Assistant</h3>
         <span class="timeline">May 2024 - Jul 2024</span>
         </div>
-        <p>The SmartScan Billing Assistant is a computer vision-based project designed to automate the process of calculating the total bill by detecting products and adding their prices using a camera, similar to a cashier. This project uses the YOLOv8 model for object detection and tracking. This is the MVP of the main project I did for a supermarket where I implemented the SmartScan billing system on more than 1200 products.</p>
+        <p>The SmartScan Billing Assistant is a computer vision-based project designed to automate the process of calculating the total bill by detecting products and adding their prices using a camera, similar to a cashier. This project uses the YOLOv8 model for object detection and tracking. This is the MVP of the main project I did for a supermarket where I implemented the SmartScan billing system on more than 20 products.</p>
         <a href="https://github.com/owais142002/SmartScan-Billing-Assistant"><button>View Project</button></a>
     </div>
 </div>
