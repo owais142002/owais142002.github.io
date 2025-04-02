@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>I hold a Bachelor's degree in Computer and Information Systems Engineering from <b>NED University of Engineering and Technology (NEDUET)</b> in Karachi, Pakistan. I have a keen interest in <b><strong>Computer Vision</strong></b> and <b><strong>Artificial Intelligence</strong></b></p>
+<p>I hold a Bachelor's degree in Computer and Information Systems Engineering from <b>NED University of Engineering and Technology (NEDUET)</b> in Karachi, Pakistan(PK). I have a keen interest in <b><strong>Computer Vision</strong></b> and <b><strong>Artificial Intelligence</strong></b></p>
 
 <h3><strong>Research Interests</strong></h3>
 <p>My research interests encompass a wide range of topics within AI and Machine Learning, including:</p>
