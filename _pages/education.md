@@ -36,8 +36,6 @@ nav_order: 3
             <li>Graduated with a CGPA of 3.63</li>
             <li>Completed one of the most complex final year projects in the entire batch</li>
         </ul>
-        <a href="https://drive.google.com/file/d/18c7J-2d0VzugEkONRSrX2pTdFM-5rand/view?usp=drive_link"><button>View Transcript</button></a>
-        <a href="https://drive.google.com/file/d/1QTCfaQQn5yWSSJQR6Qx-lH9DsoRm7gdv/view?usp=drive_link"><button>View Degree</button></a>
     </div>
 </div>
 
@@ -56,8 +54,6 @@ nav_order: 3
             <li>Ranked 1% in Karachi Board Examinations</li>
             <li>Scored 942 out of 1100 (85.64%) in Karachi Board Examinations</li>
         </ul>
-        <a href="https://drive.google.com/file/d/1TvACTHQsgROwIrIbLF1sQn-eaDWe7f7H/view?usp=drive_link"><button>View Marksheet</button></a>
-        <a href="https://drive.google.com/file/d/1K678Nbc8lMD_xBXgDaOdiKpH1_IPmDks/view?usp=drive_link"><button>View Certificate</button></a>
     </div>
 </div>
 
@@ -76,7 +72,5 @@ nav_order: 3
             <li>Ranked 5% in Karachi Board Examinations</li>
             <li>Scored 756 out of 850 (88.9%) in Karachi Board Examinations</li>
         </ul>
-        <a href="https://drive.google.com/file/d/1_Hf4XNbiBs2zhlm7MfQdFvHv59mGA4Y1/view?usp=drive_link"><button>View Marksheet</button></a>
-        <a href="https://drive.google.com/file/d/12CwMpTxWJ4I7LM0prA6aHSw9IE0W4wpr/view?usp=drive_link"><button>View Certificate</button></a>
     </div>
 </div>
