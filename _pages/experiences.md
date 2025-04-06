@@ -5,6 +5,28 @@ title: Experiences
 nav: true
 nav_order: 2
 ---
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/rehani.jpg"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <a href="https://www.rehanisoko.com/"><h3>Rehani Soko</h3></a>
+        <span class="timeline">Jan 2023 - Dec 2023</span>
+        <span class="timeline">Dec 2024 - Present</span>
+        </div>
+        <p>Position: <strong>Machine Learning Engineer and Data Miner</strong></p>
+        <p>Employment Type: <strong>Full Time</strong></p>        
+        <p>Location: <strong>57 N St NW, Washington DC (Remote)</strong></p>
+        <p><b>Responsibilities:</b></p>
+        <ul>
+            <li>Engineered a data collection pipeline from global real estate websites. </li>
+            <li>Implemented pipeline to predict house prices on various parameters using time series model. </li>
+            <li>Developed a real estate chatbot using OpenAI, Flask, and Langchain. Created and maintained backend APIs. </li>
+        </ul>
+        <a href="https://drive.google.com/file/d/1eC2SPHpVmAvqFoKGFKLWjaiPD0jsJvVj/view?usp=drive_link"><button>View Experience Letter</button></a>
+    </div>
+</div>
 
 <div class="project0">
     <div class="image-container0">
@@ -13,7 +35,7 @@ nav_order: 2
     <div class="project-details0">
         <div class="heading">
         <a href="https://www.sibisoft.com/"><h3>Sibisoft (Pvt.) Ltd.</h3></a>
-        <span class="timeline">Jan 2024 - Present</span>
+        <span class="timeline">Jan 2024 - Dec 2024</span>
         </div>
         <p>Position: <strong>Software Engineer</strong></p>
         <p>Employment Type: <strong>Full Time</strong></p>
