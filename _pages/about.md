@@ -20,7 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>I have been admitted to the PhD program in Interdisciplinary Engineering (Computer Science and Aerospace Engineering) at <b>Kennesaw State University</b> in Georgia, United States as an incoming student for Fall 2025. I specialize in <strong>Computer Vision, Robotics, Software Development, and Large Language Models (LLMs)</strong>, with expertise in Python and JavaScript programming languages. My work focuses on developing intelligent systems integrating machine learning, object detection, and AI-driven automation across various applications.</p>
+<p>I have been admitted to the PhD program in Interdisciplinary Engineering (Computer Science and Aerospace Engineering) at <b>Kennesaw State University</b> in Georgia, United States as an incoming student for Fall 2025.</p></br></br>
+<p>I specialize in <strong>Computer Vision, Robotics, Software Development, and Large Language Models (LLMs)</strong>, with expertise in Python and JavaScript programming languages. My work focuses on developing intelligent systems integrating machine learning, object detection, and AI-driven automation across various applications.</p>
 
 <h3><strong>Research Interests</strong></h3>
 <p>My research interests encompass a wide range of topics within AI and Machine Learning, including:</p>

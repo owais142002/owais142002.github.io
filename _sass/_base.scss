@@ -695,6 +695,11 @@ button:hover {
   background-color: #0056b3;
 }
 
+.dates-container {
+  display: flex;
+  flex-direction: column;  
+}
+
 .heading {
   display: flex;
   justify-content: space-between;
@@ -703,7 +708,7 @@ button:hover {
 
 .timeline {
   border-radius: 5px;
-  padding: 5px 10px;
+  padding: 0px 10px;
   font-size: 0.8em;
 }
 

@@ -12,8 +12,10 @@ nav_order: 2
     <div class="project-details0">
         <div class="heading">
         <a href="https://www.rehanisoko.com/"><h3>Rehani Soko</h3></a>
-        <span class="timeline">Jan 2023 - Dec 2023</span><br />
-        <span class="timeline">Dec 2024 - Present</span>
+        <div class="dates-container">
+            <span class="timeline">Dec 2024 - Present</span>
+            <span class="timeline">Jan 2023 - Dec 2023</span>
+        </div>
         </div>
         <p>Position: <strong>Machine Learning Engineer and Data Miner</strong></p>
         <p>Employment Type: <strong>Full Time</strong></p>        
@@ -47,28 +49,6 @@ nav_order: 2
             <li>Developed and maintained multi-action agents with Langchain for responsive chatbot functionalities. </li>
         </ul>
         <a href="https://drive.google.com/file/d/1ywfyWRuUy56QQM5lXWXmzA-2mRM6RsJB/view?usp=drive_link"><button>View Experience Letter</button></a>
-    </div>
-</div>
-
-<div class="project0">
-    <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/rehani.jpg"%}
-    </div>
-    <div class="project-details0">
-        <div class="heading">
-        <a href="https://www.rehanisoko.com/"><h3>Rehani Soko</h3></a>
-        <span class="timeline">Jan 2023 - Dec 2023</span>
-        </div>
-        <p>Position: <strong>Machine Learning Engineer and Data Miner</strong></p>
-        <p>Employment Type: <strong>Full Time</strong></p>        
-        <p>Location: <strong>57 N St NW, Washington DC (Remote)</strong></p>
-        <p><b>Responsibilities:</b></p>
-        <ul>
-            <li>Engineered a data collection pipeline from global real estate websites. </li>
-            <li>Implemented pipeline to predict house prices on various parameters using time series model. </li>
-            <li>Developed a real estate chatbot using OpenAI, Flask, and Langchain. Created and maintained backend APIs. </li>
-        </ul>
-        <a href="https://drive.google.com/file/d/1eC2SPHpVmAvqFoKGFKLWjaiPD0jsJvVj/view?usp=drive_link"><button>View Experience Letter</button></a>
     </div>
 </div>
 

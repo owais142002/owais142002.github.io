@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 title: Projects
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 <div class="project0">

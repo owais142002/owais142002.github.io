@@ -3,7 +3,7 @@ layout: page
 permalink: /competitions/
 title: Competitions
 nav: true
-nav_order: 6
+nav_order: 7
 ---
 
 <div class="project0">
