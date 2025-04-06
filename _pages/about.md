@@ -20,7 +20,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>I have been admitted to the PhD program in Interdisciplinary Engineering at <b>Kennesaw State University</b> in Georgia, United States(US) as an incoming student for Fall 2025.</p>
+<p>I have been admitted to the PhD program in Interdisciplinary Engineering at <b>Kennesaw State University</b> in Georgia, United States as an incoming student for Fall 2025.</p>
 
 <h3><strong>Research Interests</strong></h3>
 <p>My research interests encompass a wide range of topics within AI and Machine Learning, including:</p>
