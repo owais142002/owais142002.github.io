@@ -12,7 +12,7 @@ nav_order: 2
     <div class="project-details0">
         <div class="heading">
         <a href="https://www.rehanisoko.com/"><h3>Rehani Soko</h3></a>
-        <span class="timeline">Jan 2023 - Dec 2023</span>
+        <span class="timeline">Jan 2023 - Dec 2023</span><br />
         <span class="timeline">Dec 2024 - Present</span>
         </div>
         <p>Position: <strong>Machine Learning Engineer and Data Miner</strong></p>
@@ -46,6 +46,7 @@ nav_order: 2
             <li>Integrated OpenAI and Langchain to enhance system efficiency and intelligence. </li>
             <li>Developed and maintained multi-action agents with Langchain for responsive chatbot functionalities. </li>
         </ul>
+        <a href="https://drive.google.com/file/d/1ywfyWRuUy56QQM5lXWXmzA-2mRM6RsJB/view?usp=drive_link"><button>View Experience Letter</button></a>
     </div>
 </div>
 

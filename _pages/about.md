@@ -13,14 +13,14 @@ profile:
     <p>📧 <a href="mailto:oahmed7@students.kennesaw.edu" style="color: inherit; text-decoration: underline; underline">oahmed7@students.kennesaw.edu</a> </p>
     <p>📧 <a href="mailto:owaisahmed142002@gmail.com" style="color: inherit; text-decoration: underline; underline">owaisahmed142002@gmail.com</a> </p>    
     <p>🌐 <a href="https://www.linkedin.com/in/owaisahmed142002/" style="color: inherit; text-decoration: underline; underline">linkedin.com/in/owaisahmed142002/</a> </p>
-    <p>🏠 Karachi, Pakistan 75300</p>
+    <p>🏠 Marietta, GA 30060, United States</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>I have been admitted to the PhD program in Interdisciplinary Engineering (Computer Science and Aerospace Engineering) at <b>Kennesaw State University</b> in Georgia, United States as an incoming student for Fall 2025.</p>
+<p>I have been admitted to the PhD program in Interdisciplinary Engineering (Computer Science and Aerospace Engineering) at <b>Kennesaw State University</b> in Georgia, United States as an incoming student for Fall 2025. I specialize in <strong>Computer Vision, Robotics, Software Development, and Large Language Models (LLMs)</strong>, with expertise in Python and JavaScript programming languages. My work focuses on developing intelligent systems integrating machine learning, object detection, and AI-driven automation across various applications.</p>
 
 <h3><strong>Research Interests</strong></h3>
 <p>My research interests encompass a wide range of topics within AI and Machine Learning, including:</p>
