@@ -62,7 +62,7 @@ nav_order: 2
         <span class="timeline">Feb 2023 - Nov 2023</span>
         </div>
         <p>Position: <strong>Backend Python AI Developer</strong></p>
-        <p>Employment Type: <strong>Full Time</strong></p>        
+        <p>Employment Type: <strong>Part Time</strong></p>        
         <p>Location: <strong>London, England, United Kingdom (Remote)</strong></p>
         <p><b>Responsibilities:</b></p>
         <ul>
