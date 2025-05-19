@@ -17,7 +17,7 @@ nav_order: 2
             <span class="timeline">Jan 2023 - Dec 2023</span>
         </div>
         </div>
-        <p>Position: <strong>Machine Learning Engineer and Data Miner</strong></p>
+        <p>Position: <strong>Software Engineer</strong></p>
         <p>Employment Type: <strong>Full Time</strong></p>        
         <p>Location: <strong>57 N St NW, Washington DC (Remote)</strong></p>
         <p><b>Responsibilities:</b></p>
