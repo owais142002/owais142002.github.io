@@ -32,6 +32,27 @@ nav_order: 2
 
 <div class="project0">
     <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/morfyus_logo.jpg"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <a href="https://morfyus.com/"><h3>Morfyus</h3></a>
+        <div class="dates-container">
+            <span class="timeline">Jan 2025 - Present</span>
+        </div>
+        </div>
+        <p>Position: <strong>Software Engineer</strong></p>
+        <p>Employment Type: <strong>Part Time</strong></p>        
+        <p>Location: <strong>Singapore (Remote)</strong></p>
+        <p><b>Responsibilities:</b></p>
+        <ul>
+            <li>Collaborating with multiple teams to solve software engineering challenges across diverse applications.</li>
+        </ul>
+    </div>
+</div>
+
+<div class="project0">
+    <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/sibisoft.jpg"%}
     </div>
     <div class="project-details0">
