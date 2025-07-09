@@ -5,6 +5,23 @@ title: Competitions
 nav: true
 nav_order: 7
 ---
+<div class="project0">
+    <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/colosseum.png"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <h3>Solana Breakout (Colosseum) Hackathon</h3>
+        <span class="timeline">14 Apr 2025 - 16 May 2025</span>
+        </div>
+        <p><b>Organizer: </b><a href="https://www.colosseum.com/breakout">Solana Breakout Hackathon Powered by Colosseum</a></p>
+        <p><b>Project:</b> Agent Arc: Autonomous Trading Bot</p>
+        <p><b>Description:</b> Secured 3rd place and a $15,000 award among 1,412 global teams in the AI Track of the 5‑week Solana Breakout Hackathon (Apr 14–May 16, 2025). Led design and development of Agent Arc, an AI-powered non-custodial trading terminal using neural nets and LLMs for profit-driven trades on Solana. Recognized alongside top AI innovations at this premier crypto hackathon.</p>
+        <a href="https://github.com/Sentient-Labs-1/agent-arc-backend"><button>View Project</button></a>
+        <a href="https://arena.colosseum.org/projects/explore/agent-arc"><button>View Submission</button></a>
+        <a href="https://beta.agentarc.ai/"><button>View Demo</button></a>
+    </div>
+</div>
 
 <div class="project0">
     <div class="image-container0">
