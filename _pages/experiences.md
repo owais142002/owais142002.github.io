@@ -13,7 +13,7 @@ nav_order: 2
         <div class="heading">
         <a href="https://www.rehanisoko.com/"><h3>Rehani Soko</h3></a>
         <div class="dates-container">
-            <span class="timeline">Dec 2024 - Present</span>
+            <span class="timeline">Dec 2024 - July 20225</span>
             <span class="timeline">Jan 2023 - Dec 2023</span>
         </div>
         </div>
@@ -38,7 +38,7 @@ nav_order: 2
         <div class="heading">
         <a href="https://morfyus.com/"><h3>Morfyus</h3></a>
         <div class="dates-container">
-            <span class="timeline">Jan 2025 - Present</span>
+            <span class="timeline">Jan 2025 - July 2025</span>
         </div>
         </div>
         <p>Position: <strong>Software Engineer</strong></p>
