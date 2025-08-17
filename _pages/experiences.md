@@ -7,13 +7,34 @@ nav_order: 2
 ---
 <div class="project0">
     <div class="image-container0">
+        {% include figure.liquid loading="eager" path="assets/img/Kennesaw_State_Logo.png"%}
+    </div>
+    <div class="project-details0">
+        <div class="heading">
+        <a href="https://aerolabs.github.io/"><h3>Aerolabs</h3></a>
+        <div class="dates-container">
+            <span class="timeline">Aug 2025 - Present</span>
+        </div>
+        </div>
+        <p>Position: <strong>Graduate Research Assistant</strong></p>
+        <p>Employment Type: <strong>Full Time</strong></p>        
+        <p>Location: <strong>Marietta, Georgia, United States</strong></p>
+        <p><b>Responsibilities:</b></p>
+        <ul>
+            <li>Currently conducting research on Multi Robot Communication and Colloboration. Morever, working on several lab projects.</li>
+        </ul>
+    </div>
+</div>
+
+<div class="project0">
+    <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/rehani.jpg"%}
     </div>
     <div class="project-details0">
         <div class="heading">
         <a href="https://www.rehanisoko.com/"><h3>Rehani Soko</h3></a>
         <div class="dates-container">
-            <span class="timeline">Dec 2024 - July 20225</span>
+            <span class="timeline">Dec 2024 - July 2025</span>
             <span class="timeline">Jan 2023 - Dec 2023</span>
         </div>
         </div>
@@ -26,7 +47,7 @@ nav_order: 2
             <li>Implemented pipeline to predict house prices on various parameters using time series model. </li>
             <li>Developed a real estate chatbot using OpenAI, Flask, and Langchain. Created and maintained backend APIs. </li>
         </ul>
-        <a href="https://drive.google.com/file/d/1eC2SPHpVmAvqFoKGFKLWjaiPD0jsJvVj/view?usp=drive_link"><button>View Experience Letter</button></a>
+        <!-- <a href="https://drive.google.com/file/d/1eC2SPHpVmAvqFoKGFKLWjaiPD0jsJvVj/view?usp=drive_link"><button>View Experience Letter</button></a> -->
     </div>
 </div>
 
@@ -69,7 +90,7 @@ nav_order: 2
             <li>Integrated OpenAI and Langchain to enhance system efficiency and intelligence. </li>
             <li>Developed and maintained multi-action agents with Langchain for responsive chatbot functionalities. </li>
         </ul>
-        <a href="https://drive.google.com/file/d/1ywfyWRuUy56QQM5lXWXmzA-2mRM6RsJB/view?usp=drive_link"><button>View Experience Letter</button></a>
+        <!-- <a href="https://drive.google.com/file/d/1ywfyWRuUy56QQM5lXWXmzA-2mRM6RsJB/view?usp=drive_link"><button>View Experience Letter</button></a> -->
     </div>
 </div>
 
@@ -91,7 +112,7 @@ nav_order: 2
             <li>Designed APIs to interface with OpenAI, managing embeddings in a vector database & integrated bots for WhatsApp and Discord.</li>
             <li>Orchestrated backend flow for text extraction, embedding generation, and storage, enabling efficient Q&A capabilities.</li>
         </ul>
-        <a href="https://drive.google.com/file/d/1kfDO0_83gHyh8TuhjsUlXYdJw67eJ98D/view"><button>View Experience Letter</button></a>
+        <!-- <a href="https://drive.google.com/file/d/1kfDO0_83gHyh8TuhjsUlXYdJw67eJ98D/view"><button>View Experience Letter</button></a> -->
     </div>
 </div>
 
@@ -133,7 +154,7 @@ nav_order: 2
             <li>Developed, implemented, and maintained web scrapers in JavaScript for extracting data from various e-commerce websites.</li>
             <li>Collaborated with the team to ensure efficient and accurate data extraction based on project requirements.</li>
         </ul>
-        <a href="https://drive.google.com/file/d/1YA5uJGRtc2J6cd7PFpk4leNid7xbSE-E/view"><button>View Experience Letter</button></a>
+        <!-- <a href="https://drive.google.com/file/d/1YA5uJGRtc2J6cd7PFpk4leNid7xbSE-E/view"><button>View Experience Letter</button></a> -->
     </div>
 </div>
 

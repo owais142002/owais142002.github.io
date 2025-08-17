@@ -12,7 +12,7 @@ nav_order: 6
     <div class="project-details0">
         <div class="heading">
         <h3><a href="https://icode.guru/">ICodeGuru</a></h3>
-        <span class="timeline">April 2024 - Present</span>
+        <span class="timeline">April 2024 - July 2025</span>
         </div>
         <p><strong>Trainer & Moderator</strong></p>
         <p>At ICodeGuru, we teach, train, mentor and guide students from underprivileged areas of Pakistan to enhance their professional skills. I teach coding to these students and help them solve Leetcode problems.</p>
@@ -28,7 +28,7 @@ nav_order: 6
     <div class="project-details0">
         <div class="heading">
         <h3><a href="https://aspirepk.org/pak-angels/">PAK ANGELS</a></h3>
-        <span class="timeline">June 2024 - Present</span>
+        <span class="timeline">June 2024 - July 2025</span>
         </div>
         <p><strong>Trainer</strong></p>
         <p>At Pak Angels,I moderated an online Generative AI course focused on LangChain, Retrieval-Augmented Generation (RAG), and LangGraph, where I led interactive discussions, guided hands-on applications, and trained underprivileged students from the community.</p>

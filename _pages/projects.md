@@ -5,21 +5,6 @@ title: Projects
 nav: true
 nav_order: 5
 ---
-
-<div class="project0">
-    <div class="image-container0">
-        {% include figure.liquid loading="eager" path="assets/img/robotics_arm.jpg" style="width: 300px; height: 300px;" %}
-    </div>
-    <div class="project-details0">
-        <div class="heading">
-        <h3>IntelliLift RoboNavigator</h3>
-        <span class="timeline">In Progress</span>
-        </div>
-        <p>A robotics project that integrates a robotic arm mounted on a mobile platform to autonomously detect, navigate towards, and manipulate(lift) objects based on natural language commands using 6D pose estimation of the object. The project will utilize ROS, Gazebo, ArUco Markers, 6D pose estimator and LLMs.</p>
-        <a href="https://github.com/owais142002/IntelliLift-RoboNavigator/"><button>View Project</button></a>
-    </div>
-</div>
-
 <div class="project0">
     <div class="image-container0">
         {% include figure.liquid loading="eager" path="assets/img/road-object-detection.jpg" style="width: 300px; height: 300px;"  %}
